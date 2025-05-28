@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-05-28 at 01 10 34_4ea77065](https://github.com/user-attachments/assets/21a12e74-eeaa-4359-b485-5e7ef0eddb8e)- 👋 Hi, I’m @R13pha
+- 👋 Hi, I’m @R13pha
 - 👀 I’m interested in ...Creating Websites
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...Knowing Different Programming Languages
